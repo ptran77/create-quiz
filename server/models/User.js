@@ -26,7 +26,7 @@ const userSchema = new Schema(
         ref: 'Quiz'
       }
     ],
-    savedQuiz: [
+    savedquiz: [
       {
         type: Schema.Types.ObjectId,
         ref: 'Quiz'
