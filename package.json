@@ -1,0 +1,22 @@
+{
+  "name": "create-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptran77/create-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptran77/create-quiz/issues"
+  },
+  "homepage": "https://github.com/ptran77/create-quiz#readme",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
